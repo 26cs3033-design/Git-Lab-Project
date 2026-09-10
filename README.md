@@ -15,3 +15,4 @@ gcc calculator.c -o calculator
 4.Run the program using:
 
 ./calculatorVersion control practice
+Feature:Calculator supports add,sub,mul and div.
