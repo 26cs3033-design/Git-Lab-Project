@@ -15,3 +15,4 @@ gcc calculator.c -o calculator
 4.Run the program using:
 
 ./calculatorVersion control practice
+## Features:Calculator supports basic arithmetic operations.
