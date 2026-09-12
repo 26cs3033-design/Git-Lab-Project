@@ -15,4 +15,8 @@ gcc calculator.c -o calculator
 4.Run the program using:
 
 ./calculatorVersion control practice
+<<<<<<< HEAD
 ## Features:Calculator supports basic arithmetic operations.
+=======
+Feature:Calculator supports add,sub,mul and div.
+>>>>>>> 6856a1fc7cec069d367bd244444b6e4160492276
